@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: Big Jay's Fat Ass 6/12-Hour Race
+description: The home of Central Illinois' Premier Ultracycling Race
 ---
